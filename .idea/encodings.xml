@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/Event.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/EventDynamic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/EventInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/FoodKms.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/FoodLims.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/bean/KeyWord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/servlet/EventServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/servlet/GetDataServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/servlet/GetEventServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/servlet/HotMapServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/eventwarning/servlet/SearchServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/warn/IData.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
